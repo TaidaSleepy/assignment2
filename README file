@@ -1,0 +1,21 @@
+Flatacuties
+
+Views a list of animals
+Shows details of the animals(images)
+Vote for animals which increases the vote count by however many times vote is clicked
+Vote reset option
+
+Install requirements
+npm install -g json-server
+ 
+Open local server json-server --watch db.json --port 3000
+
+Used 
+ HTML
+ json
+ js
+
+ DOM manipulation
+ Event handling
+ JSON data 
+
